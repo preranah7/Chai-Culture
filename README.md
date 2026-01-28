@@ -14,7 +14,7 @@ A beautiful, responsive coming soon landing page for Royal Chai, a premium insta
 
 ## Live Demo
 
-🔗 **[View Live Demo](#)** *(Add your deployment link here)*
+🔗 **[View Live Demo](https://chai-culture-seven.vercel.app/)**
 
 ### Deployment Option Considered
 - **Vercel**: `vercel deploy`
@@ -22,10 +22,10 @@ A beautiful, responsive coming soon landing page for Royal Chai, a premium insta
 ## Screenshots
 
 ### Dark Theme
-![Dark Theme - Desktop View](public/Dark-theme.png)
+![Dark Theme - Desktop View](public/Dark-theme-scroll.png)
 *Desktop view with dark theme showing the full landing page*
 
-![Dark Theme - Scrolled View](public/Dark-theme-scroll.png)
+![Dark Theme - Scrolled View](public/Dark-theme.png)
 *Dark theme with email form and social links visible*
 
 ### Light Theme
